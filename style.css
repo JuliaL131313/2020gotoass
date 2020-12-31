@@ -1,0 +1,29 @@
+.containerMain {
+   padding: 200px;
+}
+.happyDiv {
+   padding-top: 100px;
+}
+.happy {
+   display: block;
+   margin: auto;
+}
+.vitaemo {
+   display: none;
+}
+span {
+   display: block;
+   margin: 0 auto;
+   text-align: center;
+   color: #FC2200;
+   margin-bottom: 10px;
+}
+img {
+   display: block;
+   margin: 0 auto;
+   width: 250px;
+}
+.back {
+   display: block;
+   margin: 20px auto;
+}
